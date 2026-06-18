@@ -4,7 +4,7 @@
 
 ## Funkcionalnosti igre
 * **Generisanje obrazaca:** Igra automatski kreira nasumične sekvence koje postaju sve duže i kompleksnije kako runde odmiču
-* **Bonus događaj (Ptica Spawner):** Dinamičko pojavljivanje bonus ptice koja preleće scenu tokom igre i pruža mogućnost igraču da osvoji dodatni XP
+* **Bonus događaj:** Dinamičko pojavljivanje bonus ptice koja preleće scenu tokom igre i pruža mogućnost igraču da osvoji dodatni XP
 * **Praćenje korisničkog interfejsa (UI):** Prikaz trenutne runde, osvojenih poena i najboljeg rezultata u realnom vremenu 
 
 ---
@@ -42,7 +42,7 @@ Logika igre je pisana u C# skriptama:
 
 5. U **Project prozoru**, idite do `Assets/Scenes/` i otvorite glavnu scenu (`MainMenu`)
 
-6. Pritisnite dugme **▶ Play** u Unity editoru i uživajte u igri!
+6. Pritisnite dugme **Play** u Unity editoru i uživajte u igri!
 
 ---
 
